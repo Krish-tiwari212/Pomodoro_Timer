@@ -1,2 +1,3 @@
 ﻿# Pomodoro Timer
-![Capture](https://user-images.githubusercontent.com/114987949/194809798-251c3cbf-cefa-46a6-8ab3-8d9beeb2bf74.PNG)
+
+![Capture](https://user-images.githubusercontent.com/114987949/194809855-da27f425-7961-408a-ad64-e2eb68e49261.PNG)
